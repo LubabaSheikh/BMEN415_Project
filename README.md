@@ -1,7 +1,5 @@
 # BMEN415_Project
 ### This project explores multiple machine learning models corresponding to a regression dataset, classification dataset and image input classification dataset. 
-### Link to Final Report: https://docs.google.com/document/d/1pe91VNu30r7fwTEDSaSih17UOTe7Hw6Wkt7cWzB4by0/edit?usp=sharing
-<hr>
 
 ### The regression dataset regards the use of volumetric features of the brain to predict the age of a healthy patient. 
 ### <u>Regression Models:</u>
